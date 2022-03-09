@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=5C3Klh87CZI
 
 # Running Code
 The DetectorDetective.ipynb consists of codes to generate all the visualizations needed. Make sure to give an appropriate path name in the file to download the visualizations.
-Datasets folder should have "coco" which in turn should have "annotations" (.json file) and "val2017" (images) 
+Datasets folder should have the same structure as shown here
 
 streamlit run streamlit_visualization.py 
 
